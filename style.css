@@ -1,0 +1,22 @@
+body{
+    background-color: cornflowerblue;
+}
+h1{
+    color: azure;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+p{
+    font-size: 17px;
+}
+b{
+    font-size: 20px;
+}
+#webcam{
+    border: 2px dashed rgb(140, 91, 219);
+    width: 350px;
+    height: 300px;
+}
+.result_person_name,.output_accuracy{
+color: black;
+
+}
